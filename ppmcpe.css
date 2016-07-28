@@ -1,7 +1,23 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#container {
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+}
+#title_div {
+	padding: 10px;
+}
+#sub_main {
+	padding: 10px;
+	padding-bottom: 2.6em;
+}
 body {
 	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-8-full.jpg");
 	color: white;
-	margin: 0;
 }
 #main {
 	width: 70%;
@@ -57,7 +73,9 @@ body {
 }
 #footer {
 	background: transparent;
-	margin-top: 11.2%;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
 .f_h4 {
 	font-size: 1.2em;
