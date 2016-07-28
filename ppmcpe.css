@@ -1,0 +1,90 @@
+body {
+	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-8-full.jpg");
+	color: white;
+	margin: 0;
+}
+#main {
+	width: 70%;
+	margin: auto;
+}
+.center {
+	text-align: center;
+}
+.mont {
+	font-family: 'Montserrat';
+}
+.lat {
+	font-family: 'Lato';
+}
+.container {
+	display: inline-block;
+}
+.green_l {
+	color: #55ff55;
+}
+.green_l:hover {
+	color: #33ee33;
+}
+#title_div {
+	margin-top: 8.5em;
+	margin-bottom: -1.75em;
+	margin-left: auto;
+	margin-right: auto;
+}
+#title_h1 {
+	font-size: 3.5em;
+	font-variant: small-caps;
+	text-align: center;
+	font-weight: 900;
+}
+#intro_div {
+	font-size: 1.2em;
+}
+#vote_btn {
+    background: transparent;
+    border: 2px solid #55ff55;
+    color: #55ff55;
+    cursor: pointer;
+    font-size: 1.8em;
+    padding: 0.3em 0.75em;
+    transition: background 0.6s, color 0.6s, border 0.6s;
+	border-radius: 2px;
+}
+#vote_btn:hover {
+    background: #33ee33;
+    color: #fefefe;
+	border: solid 2px white;
+}
+#footer {
+	background: transparent;
+	margin-top: 11.2%;
+}
+.f_h4 {
+	font-size: 1.2em;
+}
+.f_main a {
+	color: #22dd22;
+	font-weight: 700;
+	text-decoration: none;
+}
+.f_main a:hover {
+	color: #11cc11;
+}
+#home_h4 {
+	margin-left: 2em;
+}
+#other {
+	margin-left: 5em;
+}
+.f_div_other {
+	margin: 0px 1.5em;
+}
+#pbg_div {
+	margin-right: 2em;
+	float: right;
+}
+#pbg_h3 {
+	color: #22dd22;
+	font-size: 1.3em;
+	font-weight: 700;
+}
