@@ -1,0 +1,86 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#container {
+	min-height: 100%;
+	position: relative;
+}
+#sub_main {
+	padding-bottom: 2.6em;
+}
+body {
+	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-8-full.jpg");
+	color: white;
+}
+#main {
+	text-align: center;
+	width: 70%;
+	margin: auto;
+}
+.container {
+	display: inline-block;
+}
+.mont {
+	font-family: 'Montserrat';
+}
+.lat {
+	font-family: 'Lato';
+}
+.w700 {
+	font-weight: 700;
+	color: #55ff55;
+}
+hr {
+	width: 70%;
+	color: #dfdfdf;
+	border-top-style: none;
+	border-bottom-style: solid;
+}
+#title_h1 {
+	font-size: 2.2em;
+	font-variant: small-caps;
+	font-weight: 900;
+}
+#intro_p {
+	font-size: 1.2em;
+}
+.r_div {
+	font-family: 'Montserrat';
+	font-size: 1em;
+}
+#footer {
+	background: transparent;
+	position: absolute;
+	bottom: 0;
+}
+.f_h4 {
+	font-size: 1.2em;
+}
+.f_main a {
+	color: #22dd22;
+	font-weight: 700;
+	text-decoration: none;
+}
+.f_main a:hover {
+	color: #11cc11;
+}
+#home_h4 {
+	margin-left: 2em;
+}
+#other {
+	margin-left: 5em;
+}
+.f_div_other {
+	margin: 0px 1.5em;
+}
+#pbg_div {
+	margin-right: 2em;
+	float: right;
+}
+#pbg_h3 {
+	color: #22dd22;
+	font-size: 1.3em;
+	font-weight: 700;
+}
