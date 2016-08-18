@@ -41,14 +41,14 @@ body {
 .green_l:hover {
 	color: #33ee33;
 }
-#title_div {
-	margin-top: 8.5em;
+#that_error_div {
+	margin-top: -3em;
 	margin-bottom: -1.75em;
 	margin-left: auto;
 	margin-right: auto;
 }
-#title_h1 {
-	font-size: 3.5em;
+#that_error_h1 {
+	font-size: 5em;
 	font-variant: small-caps;
 	text-align: center;
 }
