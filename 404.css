@@ -11,6 +11,10 @@ html, body {
 #title_div {
 	padding: 10px;
 }
+#sub_main {
+	padding: 10px;
+	padding-bottom: 2.6em;
+}
 body {
 	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-8-full.jpg");
 	color: white;
@@ -25,19 +29,46 @@ body {
 .mont {
 	font-family: 'Montserrat';
 }
+.lat {
+	font-family: 'Lato';
+}
 .container {
-  display: inline-block;
+	display: inline-block;
 }
-.w700 {
-  font-weight: 700;
+.green_l {
+	color: #55ff55;
 }
-
-
-
-
-
-
-
+.green_l:hover {
+	color: #33ee33;
+}
+#title_div {
+	margin-top: 8.5em;
+	margin-bottom: -1.75em;
+	margin-left: auto;
+	margin-right: auto;
+}
+#title_h1 {
+	font-size: 3.5em;
+	font-variant: small-caps;
+	text-align: center;
+}
+#intro_div {
+	font-size: 1.2em;
+}
+#home_btn {
+    background: transparent;
+    border: 2px solid #55ff55;
+    color: #55ff55;
+    cursor: pointer;
+    font-size: 1.8em;
+    padding: 0.3em 0.75em;
+    transition: color 1s;
+	border-radius: 2px;
+}
+#home_btn:hover {
+    color: #fefefe;
+	border: solid 2px #55ff55;
+}
 #footer {
 	background: transparent;
 	position: absolute;
