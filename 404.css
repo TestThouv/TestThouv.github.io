@@ -35,6 +35,9 @@ body {
 .container {
 	display: inline-block;
 }
+canvas {
+	height: 6em;
+}
 .green_l {
 	color: #55ff55;
 }
