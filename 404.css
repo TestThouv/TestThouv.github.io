@@ -1,0 +1,75 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#container {
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+}
+#title_div {
+	padding: 10px;
+}
+body {
+	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-8-full.jpg");
+	color: white;
+}
+#main {
+	width: 70%;
+	margin: auto;
+}
+.center {
+	text-align: center;
+}
+.mont {
+	font-family: 'Montserrat';
+}
+.container {
+  display: inline-block;
+}
+.w700 {
+  font-weight: 700;
+}
+
+
+
+
+
+
+
+#footer {
+	background: transparent;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.f_h4 {
+	font-size: 1.2em;
+}
+.f_main a {
+	color: #22dd22;
+	font-weight: 700;
+	text-decoration: none;
+}
+.f_main a:hover {
+	color: #11cc11;
+}
+#home_h4 {
+	margin-left: 2em;
+}
+#other {
+	margin-left: 5em;
+}
+.f_div_other {
+	margin: 0px 1.5em;
+}
+#pbg_div {
+	margin-right: 2em;
+	float: right;
+}
+#pbg_h3 {
+	color: #22dd22;
+	font-size: 1.3em;
+	font-weight: 700;
+}
