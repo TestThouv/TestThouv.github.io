@@ -1,4 +1,4 @@
-var myName = "Four O' Four";
+var myName = "Four o' Four";
 
 var white = [0, 0, 100];
 var black = [0, 0, 27];
