@@ -1,9 +1,4 @@
 $(document).ready(function() {
-	var windowWidth = $(window).width();
-	$("#footer").width(windowWidth);
-	
-	$(window).resize(function() {
-		var windowWidth = $(window).width();
-		$("#footer").width(windowWidth);
-	});
+	var url = window.location.href;
+	$("#intro_div").prepend("<p class='mont center' id='intro_div'>The page you're looking for (" + url + "), doesn't exist... Please use the button below to return to our home page.");
 });
