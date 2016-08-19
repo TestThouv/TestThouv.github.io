@@ -1,4 +1,4 @@
-var myName = "404";
+var myName = "Error 404";
 
 var white = [0, 0, 100];
 var black = [0, 0, 27];
