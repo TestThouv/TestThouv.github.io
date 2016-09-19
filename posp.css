@@ -1,0 +1,118 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#container {
+	min-height: 100%;
+	position: relative;
+}
+#top {
+	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-2-full.jpg");
+	color: white;
+	height: 18em;
+}
+#top_txt_container {
+	margin: auto;
+	width: 80%;
+}
+#sub_sub_main {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #fefefe;
+	height: 20em;
+}
+#title_div {
+	padding: 10px;
+	margin-bottom: -2em;
+}
+.mont {
+	font-family: 'Montserrat';
+}
+.lat {
+	font-family: 'Lato';
+}
+.rbts {
+	font-family: 'Roboto Slab';
+}
+.center {
+	text-align: center;
+}
+#title_h1 {
+	font-size: 3.5em;
+	font-variant: small-caps;
+}
+#intro_div1 {
+	margin-bottom: 1em;
+}
+#intro_p1 {
+	font-size: 1.5em;
+}
+#intro_p2 a {
+	color: #c9c9c9;
+}
+#intro_p2 a:hover {
+	font-weight: bold;
+	text-decoration: none;
+}
+#sssmain {
+	width: 90%;
+	margin: auto;
+}
+.pos_div, .pos_hiddendiv {
+	width: 24.7785%;
+	display: inline-block;
+	text-align: center;
+}
+#pos_h31_1 {
+	color: #0000aa;
+	font-family: 'Bangers';
+}
+#pos_h32_1 {
+	color: #ff5555;
+	font-family: 'Black Ops One';
+}
+#pos_h33_1 {
+	color: #00aa00;
+	font-family: 'Rock Salt';
+}
+#pos_h34_1 {
+	color: #ffaa00;
+	font-family: 'Ewert';
+}
+#pos_h31_2 {
+	color: #ff55ff;
+	font-family: 'Fruktur';
+}
+#pos_h32_2 {
+	color: #00aaaa;
+	font-family: 'Bungee Shade';
+}
+#pos_h33_2 {
+	color: #aa00aa;
+	font-family: 'Monoton';
+}
+#pos_h34_2 {
+	color: #aa0000;
+	font-family: 'Permanent Marker';
+}
+.pos_h3 {
+	font-size: 1.5em;
+}
+.pos_h3, .pos_hiddendiv_h4 {
+	cursor: pointer;
+}
+#pos_hiddendiv1_2, #pos_hiddendiv2_2, #pos_hiddendiv3_2, #pos_hiddendiv4_2 {
+	margin-bottom: 4em;
+}
+.pos_hiddendiv {
+	height: 5em;
+}
+.pos_hiddendiv_h4 {
+	font-size: 1.5em;
+	font-family: 'Montserrat';
+}
+.pos_hiddendiv_p {
+	font-family: 'Roboto Slab';
+}
